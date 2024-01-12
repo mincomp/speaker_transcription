@@ -1,4 +1,4 @@
-# speaker_transcription
+# Target Speaker Transcription
 Transcribe text from audio for a certain speaker
 
 This repo is consisted of a few scripts that could be used in combination to transcribe a certain speaker (for whom we have some sample audio) from a given audio.
